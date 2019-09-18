@@ -1,3 +1,2 @@
 # angular-calendar-component
-Clean Angular calendar component [Demo](https://stackblitz.com/edit/rolyart-calendar-component)
-## Install
+Clean Angular calendar component [Demo and code](https://stackblitz.com/edit/rolyart-calendar-component)
